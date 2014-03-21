@@ -1,10 +1,9 @@
-devop
-===================================================
+##Description
+###This tool is ad to build trust between two machines:
 
-some tools in my op way
+1. get local host's public key 
+2. send it to remote machine
+3. change remote machine's environmnet
 
-====================================================
-this program is to build trust between tow machines:
-        1 get local host's ssh-keygen
-        2 send it to remote machine
-        3 change remote machine's environment
+
+###Usages:
